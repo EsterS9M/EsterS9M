@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Ester 👋
 
-### Iniciante em programação | Transformando processos em código
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=F7DF1E&center=true&vCenter=true&width=550&lines=Profissional+de+processos+em+transi%C3%A7%C3%A3o+para+tecnologia;Unindo+experi%C3%AAncia+em+processos+e+automa%C3%A7%C3%A3o;Estudando+Python%2C+HTML%2C+CSS+e+JavaScript)
 
 </div>
 
@@ -34,16 +34,6 @@
 
 - 🐍 Praticando Python com pequenos projetos e automações
 - 🎨 Consolidando a base de HTML e CSS antes de avançar para JavaScript
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Aprendendo+um+pouco+mais+a+cada+dia+%F0%9F%92%BB;De+processos+para+programa%C3%A7%C3%A3o;Python+%7C+HTML+%7C+CSS+%7C+JavaScript)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=EsterS9M&label=Visitas%20ao%20perfil&color=blueviolet&style=flat)
-
-</div>
 
 ---
 
