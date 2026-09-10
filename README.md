@@ -1,43 +1,66 @@
-<div align="center">
+<h1 align="center">Olá, eu sou a Ester 👋</h1>
+<p align="center"><i>Migrando para a área de programação — construindo minha base, um projeto de cada vez.</i></p>
 
-# Olá, eu sou a Ester 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Aprendendo+Python...;Estudando+Git+%2F+GitHub...;Explorando+HTML+e+CSS...;Front-end+primeiro%2C+back-end+depois." alt="Typing SVG" />
+</p>
 
-### Unindo experiência em processos e automação
+---
 
-<br>
+### 👩‍💻 Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- 💼 Trabalho na área **financeira/seguros**, onde já uso **Python** para automatizar tarefas do dia a dia
+- 🌱 Estou migrando/complementando minha carreira com **programação**, começando do zero de forma estruturada
+- 🎯 Foco atual: **front-end primeiro**, depois back-end
+- 📚 Estudo com rotina fixa, unindo teoria com projetos práticos
+- 🇬🇧 Também estudo inglês em paralelo
 
-</div>
+---
 
-<br>
+### 🧠 Atualmente estudando
 
-## 💡 Sobre mim
+- [ ] **Python** — lógica, sintaxe e automação
+- [ ] **Git & GitHub** — versionamento e fluxo de trabalho
+- [ ] **HTML & CSS** — fundamentos de front-end
+- [ ] Próximo passo: **JavaScript**
 
-- 🐍 Estudando **Python**, com foco em automação de tarefas repetitivas
-- 🎨 Aprendendo **HTML** e **CSS** para dar meus primeiros passos no front-end
-- ⚡ Me preparando para começar **JavaScript**
-- 🔧 Tenho interesse em explorar o **back-end** também, mais pra frente
-- 💼 Atualmente trabalho na área de Sinistros / Processos em uma empresa de proteção veicular, cuidando de autorizações financeiras e fluxos de pagamento
-- 📘 Crio cartilhas com passo a passo dos processos da empresa, para ajudar novos colaboradores — e uso isso como motivação para automatizar e programar cada vez mais
-- 🌱 Sempre em busca de aprender e evoluir na área de tecnologia
+---
 
-<br>
+### 🛠️ Tech Stack
 
-## 🚀 Em foco atualmente
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-A855F7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-- 🐍 Praticando Python com pequenos projetos e automações
-- 🎨 Consolidando a base de HTML e CSS antes de avançar para JavaScript
-- 📘 Desenvolvendo cartilhas de processos para novos colaboradores
+---
 
-<br>
+### 📂 Projetos
 
-<div align="center">
+- 🗂️ **Python Study Tracker** — tracker de estudos interativo em HTML, com planejamento de 12 meses, divisão diária de tarefas, um módulo de simulação de terminal/Git e uma seção de projetos inspirada no Frontend Mentor
+- 🗂️ **[Próximo projeto]** — reserve este espaço pro seu próximo script ou mini-projeto em Python
 
-✨ Obrigada pela visita! ✨
+> 💡 Adicione o link do repositório assim que ele estiver público.
 
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esterS9M&show_icons=true&theme=transparent&title_color=A855F7&icon_color=A855F7&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterS9M&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">✨ Obrigada pela visita! ✨</p>
