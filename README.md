@@ -35,7 +35,6 @@
 
 ### 📂 Projetos
 
-- 🗂️ **Python Study Tracker** — tracker de estudos interativo em HTML, com planejamento de 12 meses, divisão diária de tarefas, um módulo de simulação de terminal/Git e uma seção de projetos inspirada no Frontend Mentor
 - 🚧 *Novos projetos em construção — volte em breve!*
 
 ---
