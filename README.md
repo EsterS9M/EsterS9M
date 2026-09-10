@@ -52,10 +52,10 @@
 
 ### 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+- em breve
+
+  <p align="center">
+  <img src="https://media.tenor.com/qMwy9pHiCkEAAAAj/peach-goma-peach-and-goma.gif" width="200"/>
 </p>
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
