@@ -39,6 +39,16 @@
 
 <div align="center">
 
+### 🐍 Atividade
+
+![snake gif](https://raw.githubusercontent.com/EsterS9M/EsterS9M/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
 ✨ Obrigada pela visita! ✨
 
 </div>
