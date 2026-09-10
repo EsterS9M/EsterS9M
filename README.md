@@ -39,17 +39,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsterS9M&show_icons=true&theme=radical&hide_border=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Aprendendo+um+pouco+mais+a+cada+dia+%F0%9F%92%BB;De+processos+para+programa%C3%A7%C3%A3o;Python+%7C+HTML+%7C+CSS+%7C+JavaScript)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EsterS9M&label=Visitas%20ao%20perfil&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
 <div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/esterS9M/esterS9M/output/github-contribution-grid-snake.svg" />
-</p>
 
 ✨ Obrigada pela visita! ✨
 
