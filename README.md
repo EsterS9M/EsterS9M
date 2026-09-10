@@ -48,7 +48,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ester404/ester404/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/esterS9M/esterS9M/output/github-contribution-grid-snake.svg" />
 </p>
 
 ✨ Obrigada pela visita! ✨
