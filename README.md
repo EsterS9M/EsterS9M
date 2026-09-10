@@ -42,7 +42,37 @@
 ### 🐍 Atividade
 
 ![snake gif](https://raw.githubusercontent.com/EsterS9M/EsterS9M/output/github-contribution-grid-snake.svg)
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 3 * * *" # roda todo dia às 3h
+  workflow_dispatch: {} # permite rodar manualmente
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: EsterS9M
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </div>
 
 ---
