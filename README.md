@@ -31,7 +31,7 @@
 
 ### 🚀 Em foco atualmente
 
-- 📖 Desenvolvendo minha cartilha de programação para iniciantes
+- 📖 Desenvolvendo uma cartilha com todos os processos para iniciantes
 - 🐍 Praticando Python com pequenos projetos e automações
 - 🎨 Consolidando a base de HTML e CSS antes de avançar para JavaScript
 
