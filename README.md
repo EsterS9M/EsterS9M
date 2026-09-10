@@ -15,16 +15,12 @@
 - 📚 Estudo com rotina fixa, unindo teoria com projetos práticos
 - 🇬🇧 Também estudo inglês em paralelo
 
----
-
 ### 🧠 Atualmente estudando
 
 - [ ] **Python** — lógica, sintaxe e automação
 - [ ] **Git & GitHub** — versionamento e fluxo de trabalho
 - [ ] **HTML & CSS** — fundamentos de front-end
 - [ ] Próximo passo: **JavaScript**
-
----
 
 ### 🛠️ Tech Stack
 
@@ -44,15 +40,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterS9M&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="180"/>
-</p>
-
----
-
-<p align="center">
+  <br/>
   <img src="https://raw.githubusercontent.com/esterS9M/esterS9M/output/github-contribution-grid-snake.svg" />
 </p>
 
