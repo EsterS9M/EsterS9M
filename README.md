@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="./banner.png" width="100%"/>
+# Olá, eu sou a Ester 👋
 
-<br><br>
+### Unindo experiência em processos e automação
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
 <br>
-
-<img src="./divisor.png" width="100%"/>
 
 ## 💡 Sobre mim
 
@@ -28,8 +28,6 @@
 
 <br>
 
-<img src="./divisor.png" width="100%"/>
-
 ## 🚀 Em foco atualmente
 
 - 🐍 Praticando Python com pequenos projetos e automações
@@ -38,14 +36,8 @@
 
 <br>
 
-<img src="./divisor.png" width="100%"/>
-
 <div align="center">
 
-<br>
-
-**✨ Obrigada pela visita! ✨**
-
-<sub>Sempre em evolução, um passo de cada vez 💜</sub>
+✨ Obrigada pela visita! ✨
 
 </div>
