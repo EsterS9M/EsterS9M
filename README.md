@@ -40,8 +40,18 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/EsterS9M/EsterS9M/output/github-contribution-grid-snake.svg" />
+
+---
+
 ### 📫 Contato
 
 -Em breve
 
-<p align="center">✨ Obrigada pela visita! ✨</p>
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/qMwy9pHiCkEAAAAj/peach-goma-peach-and-goma.gif" width="200"/>
+</p>
+
+<p align="center">✨ Obrigada pela visita! ✨</p> 
