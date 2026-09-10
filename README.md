@@ -40,17 +40,12 @@
 
 ---
 
-### 📊 Atividade no GitHub
+### 📫 Contato
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esterS9M&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="180"/>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 📫 Contato
-- Em breve
-
-<img src="https://raw.githubusercontent.com/esterS9M/esterS9M/output/github-contribution-grid-snake.svg" />
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
